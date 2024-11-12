@@ -1,0 +1,86 @@
+#titulo{
+   color: rgb(245, 245, 245);
+   text-align: center;
+   font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  right: 570px;
+  top: 70px;
+}
+
+.RA{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    right: 720px;
+    top: 200px;
+
+}
+
+.senhaText{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    top: 300px;
+    right: 710px;
+}
+
+.senha{
+    background-color: rgb(51, 47, 47);
+    border: 2px solid #1e74c4;
+    padding: 15px;
+    color: white;
+    position: absolute;
+    right: 585px;
+    top: 350px;
+    border-radius: 10px;
+}
+
+.input1{
+    background-color: rgb(51, 47, 47);
+    border: 2px solid #1e74c4;
+    padding: 15px;
+    color: white;
+    position: absolute;
+    right: 585px;
+    top: 250px;
+    border-radius: 10px;
+}
+.logar{
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(66, 66, 66);
+    color: white;
+    border-radius: 20px;
+    border: 3px solid rgb(53, 107, 224);
+    position: absolute;
+    right: 600px;
+    top: 460px;
+}
+
+.termos{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    right: 580px;
+    top: 400px;
+}
+
+.checkboxx{
+    position: absolute;
+    right: 770px;
+    top: 415px;
+    position: absolute;
+    right: 780px;
+}
+
+
+body{
+    background-color: rgb(41, 41, 41);
+}
